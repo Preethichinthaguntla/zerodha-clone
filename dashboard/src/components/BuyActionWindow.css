@@ -1,0 +1,40 @@
+.container {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.regular-order {
+    margin-bottom: 15px;
+}
+
+.inputs fieldset {
+    margin: 10px 0;
+}
+
+.inputs legend {
+    font-weight: bold;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-blue {
+    background-color: #007bff;
+    color: white;
+}
+
+.btn-grey {
+    background-color: #6c757d;
+    color: white;
+}
